@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\EraaSoft\\Eraasoft Tasks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06DB212E-55CA-4761-8529-0DBAFE042684}|Eraasoft Tasks.csproj|d:\\eraasoft\\eraasoft tasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06DB212E-55CA-4761-8529-0DBAFE042684}|Eraasoft Tasks.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06DB212E-55CA-4761-8529-0DBAFE042684}|Eraasoft Tasks.csproj|d:\\eraasoft\\eraasoft tasks\\taskfour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06DB212E-55CA-4761-8529-0DBAFE042684}|Eraasoft Tasks.csproj|solutionrelative:taskfour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06DB212E-55CA-4761-8529-0DBAFE042684}|Eraasoft Tasks.csproj|d:\\eraasoft\\eraasoft tasks\\taskthree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06DB212E-55CA-4761-8529-0DBAFE042684}|Eraasoft Tasks.csproj|solutionrelative:taskthree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06DB212E-55CA-4761-8529-0DBAFE042684}|Eraasoft Tasks.csproj|d:\\eraasoft\\eraasoft tasks\\tasktwo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06DB212E-55CA-4761-8529-0DBAFE042684}|Eraasoft Tasks.csproj|solutionrelative:tasktwo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06DB212E-55CA-4761-8529-0DBAFE042684}|Eraasoft Tasks.csproj|d:\\eraasoft\\eraasoft tasks\\taskone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06DB212E-55CA-4761-8529-0DBAFE042684}|Eraasoft Tasks.csproj|solutionrelative:taskone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskOne.cs",
+              "DocumentMoniker": "D:\\EraaSoft\\Eraasoft Tasks\\TaskOne.cs",
+              "RelativeDocumentMoniker": "TaskOne.cs",
+              "ToolTip": "D:\\EraaSoft\\Eraasoft Tasks\\TaskOne.cs",
+              "RelativeToolTip": "TaskOne.cs",
+              "ViewState": "AQIAAAUAAABwZWZmZmYswBoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T06:08:01.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskTwo.cs",
+              "DocumentMoniker": "D:\\EraaSoft\\Eraasoft Tasks\\TaskTwo.cs",
+              "RelativeDocumentMoniker": "TaskTwo.cs",
+              "ToolTip": "D:\\EraaSoft\\Eraasoft Tasks\\TaskTwo.cs",
+              "RelativeToolTip": "TaskTwo.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAICMPSgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T06:23:09.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskThree.cs",
+              "DocumentMoniker": "D:\\EraaSoft\\Eraasoft Tasks\\TaskThree.cs",
+              "RelativeDocumentMoniker": "TaskThree.cs",
+              "ToolTip": "D:\\EraaSoft\\Eraasoft Tasks\\TaskThree.cs",
+              "RelativeToolTip": "TaskThree.cs",
+              "ViewState": "AQIAAAAAAABUgJmZmZkOwBgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T06:43:53.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskFour.cs",
+              "DocumentMoniker": "D:\\EraaSoft\\Eraasoft Tasks\\TaskFour.cs",
+              "RelativeDocumentMoniker": "TaskFour.cs",
+              "ToolTip": "D:\\EraaSoft\\Eraasoft Tasks\\TaskFour.cs",
+              "RelativeToolTip": "TaskFour.cs",
+              "ViewState": "AQIAADkAAADAmZmZmZkrwFMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T08:18:39.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\EraaSoft\\Eraasoft Tasks\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\EraaSoft\\Eraasoft Tasks\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwFYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T06:06:58.945Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

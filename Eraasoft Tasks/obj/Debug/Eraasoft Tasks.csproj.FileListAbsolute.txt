@@ -1,0 +1,7 @@
+D:\EraaSoft\Eraasoft Tasks\bin\Debug\Eraasoft Tasks.exe.config
+D:\EraaSoft\Eraasoft Tasks\bin\Debug\Eraasoft Tasks.exe
+D:\EraaSoft\Eraasoft Tasks\bin\Debug\Eraasoft Tasks.pdb
+D:\EraaSoft\Eraasoft Tasks\obj\Debug\Eraasoft Tasks.csproj.AssemblyReference.cache
+D:\EraaSoft\Eraasoft Tasks\obj\Debug\Eraasoft Tasks.csproj.CoreCompileInputs.cache
+D:\EraaSoft\Eraasoft Tasks\obj\Debug\Eraasoft Tasks.exe
+D:\EraaSoft\Eraasoft Tasks\obj\Debug\Eraasoft Tasks.pdb
